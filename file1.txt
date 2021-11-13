@@ -5,3 +5,4 @@ another remote change in file1
 local file1 change line5
 file1 change line number5
 remote file1 change line number7
+local file1 change line number7
