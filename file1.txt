@@ -3,3 +3,5 @@ remote change in file1
 another local change in file1
 another remote change in file1
 local file1 change line5
+file1 change line number5
+
