@@ -1,3 +1,4 @@
 local change in file1
 remote change in file1
 another local change in file1
+another remote change in file1
