@@ -2,3 +2,4 @@ local change in file2
 additional remote change in file2
 remote - add line number3
 remote - add line number4
+remote - add line number5
