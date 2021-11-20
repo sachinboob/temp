@@ -8,3 +8,5 @@ remote file1 change line number7
 local file1 change line number7
 local file1 change line number 9
 local file1 change line number10
+
+remote - line number12
