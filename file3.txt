@@ -4,3 +4,4 @@ remote - add line number2
 remote - add line number4
 remote - add line number5
 remote - add line number6
+local - add line number7
