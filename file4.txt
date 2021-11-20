@@ -1,3 +1,4 @@
 this is file4
 remote - add line number 2
 local - add line number 3
+remote - line number 4
